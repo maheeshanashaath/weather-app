@@ -17,4 +17,4 @@ This is a simple weather application that fetches real-time weather data using t
 Maheesha Farween
 
 ## Live Demo
-[Click here to view](https://your-username.github.io/weather-app) *(Link will work after GitHub Pages setup)*
+[Click here to view](https://maheeshanashaath.github.io/weather-app/)*(Link will work after GitHub Pages setup)*
